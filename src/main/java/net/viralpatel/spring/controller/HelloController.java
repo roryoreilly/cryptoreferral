@@ -14,7 +14,7 @@ public class HelloController {
 	@Autowired
 	List<Referral> referrals;
 
-	@GetMapping("/hello")
+	@GetMapping("/home")
 	public String hello(Model model) {
 
 		model.addAttribute("referrals", referrals);
