@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="binance" class="com.cryptomarketreferral.model.Referral">
+        <constructor-arg type = "java.lang.String" value = "binance"/>
+        <constructor-arg type = "java.lang.String" value = "Binance"/>
+        <constructor-arg type = "java.lang.String" value = "http://www.binance.com"/>
+        <constructor-arg type = "java.lang.String" value = "101010"/>
+        <constructor-arg type = "java.lang.String" value = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus augue justo, aliquam quis nulla in, porta tincidunt sem. Aenean eleifend lectus ligula, at laoreet lorem dictum et. Nulla iaculis ipsum lacinia, egestas massa sit amet, mattis turpis. Sed ligula lacus, rutrum at dictum nec, sollicitudin eu purus. Integer sed volutpat odio, non sollicitudin eros.."/>
+        <constructor-arg type = "java.lang.String" value = "$10 in ETH"/>
+    </bean>
+
+    <bean id="kucoin" class="com.cryptomarketreferral.model.Referral">
+        <constructor-arg type = "java.lang.String" value = "kucoin"/>
+        <constructor-arg type = "java.lang.String" value = "Kucoin"/>
+        <constructor-arg type = "java.lang.String" value = "http://www.kucoin.com"/>
+        <constructor-arg type = "java.lang.String" value = "101010"/>
+        <constructor-arg type = "java.lang.String" value = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus augue justo, aliquam quis nulla in, porta tincidunt sem. Aenean eleifend lectus ligula, at laoreet lorem dictum et. Nulla iaculis ipsum lacinia, egestas massa sit amet, mattis turpis. Sed ligula lacus, rutrum at dictum nec, sollicitudin eu purus. Integer sed volutpat odio, non sollicitudin eros.."/>
+        <constructor-arg type = "java.lang.String" value = "$10 in ETH"/>
+    </bean>
+
+    <bean id="referrals" class="java.util.ArrayList">
+        <constructor-arg>
+            <list>
+                <ref bean="binance" />
+                <ref bean="kucoin" />
+            </list>
+        </constructor-arg>
+    </bean>
+
+</beans>
