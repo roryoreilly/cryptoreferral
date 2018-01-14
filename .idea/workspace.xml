@@ -2,83 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ba6ef5-403a-4487-bac6-3e0117312602" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/android-icon-144x144.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/android-icon-192x192.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/android-icon-36x36.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/android-icon-48x48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/android-icon-72x72.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/android-icon-96x96.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon-114x114.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon-120x120.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon-144x144.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon-152x152.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon-180x180.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon-57x57.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon-60x60.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon-72x72.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon-76x76.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon-precomposed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/apple-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/favicon-16x16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/favicon-32x32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/favicon-96x96.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/favicon/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/binance.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/bitmex.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/coinbase.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/hitbtc.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/kucoin.jsp" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/viralpatel/spring/config/AppConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/config/AppConfig.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/viralpatel/spring/config/AppInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/config/AppInitializer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/viralpatel/spring/controller/HelloController.java" afterPath="$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/controller/HomeController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/viralpatel/spring/controller/MarketController.java" afterPath="$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/controller/MarketController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/viralpatel/spring/model/Referral.java" afterPath="$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/model/Referral.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" afterPath="$PROJECT_DIR$/src/main/resources/cmr.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/controller/MarketController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/cmr.xml" afterPath="$PROJECT_DIR$/src/main/resources/cmr.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/footer.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/footer.jsp" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/header.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/referral.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/referral.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/navbar.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/navbar.jsp" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/logo-nav.png" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/logo-nav.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/logo.png" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/logo.png" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/porf-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/porf-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/porf-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/porf-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/porf-5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/porf-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/porf-7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/porf-8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/team-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/team-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/team-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/img/team-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/beans.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/net/viralpatel/spring/config/AppConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/net/viralpatel/spring/config/AppInitializer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/net/viralpatel/spring/controller/HelloController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/net/viralpatel/spring/controller/MarketController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/net/viralpatel/spring/model/Referral.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/fragments/contact-us.jsp" afterPath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/fragments/contact-us.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/includes/footer.jsp" afterPath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/includes/footer.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/includes/header.jsp" afterPath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/includes/header.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/referral.jsp" afterPath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/referral.jsp" />
+      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/cmr.xml" afterPath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/cmr.xml" />
+      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/com/cryptomarketreferral/controller/HelloController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/classes/com/cryptomarketreferral/controller/MarketController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/includes/navbar.jsp" afterPath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/includes/navbar.jsp" />
       <change beforePath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/welcome.jsp" afterPath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/views/welcome.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/logo-nav.png" afterPath="$PROJECT_DIR$/target/HelloWorld/resources/img/logo-nav.png" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/logo.png" afterPath="$PROJECT_DIR$/target/HelloWorld/resources/img/logo.png" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/porf-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/porf-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/porf-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/porf-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/porf-5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/porf-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/porf-7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/porf-8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/team-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/team-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/team-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/HelloWorld/resources/img/team-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/beans.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/viralpatel/spring/config/AppConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/viralpatel/spring/config/AppInitializer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/viralpatel/spring/controller/HelloController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/viralpatel/spring/controller/MarketController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/viralpatel/spring/model/Referral.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/helloworld.war" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/ROOT.war" afterPath="$PROJECT_DIR$/target/ROOT.war" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cmr.xml" afterPath="$PROJECT_DIR$/target/classes/cmr.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cryptomarketreferral/controller/HelloController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cryptomarketreferral/controller/MarketController.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -91,33 +35,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/controller/HomeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logo-nav.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/img/logo-nav.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/img/logo.png">
           <provider selected="true" editor-type-id="images">
@@ -128,8 +45,8 @@
       <file leaf-file-name="cmr.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/cmr.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
-              <caret line="7" column="70" lean-forward="true" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+            <state relative-caret-position="458">
+              <caret line="51" column="46" lean-forward="false" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -145,21 +62,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="welcome.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="welcome.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="52" column="36" lean-forward="true" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+            <state relative-caret-position="445">
+              <caret line="68" column="34" lean-forward="false" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="navbar.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/navbar.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/footer.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/header.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="314">
+              <caret line="47" column="67" lean-forward="true" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="binance.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/binance.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="referral.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/referral.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="71" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kucoin.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/kucoin.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -214,18 +181,20 @@
         <option value="$PROJECT_DIR$/src/main/java/net/viralpatel/spring/controller/MarketController.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/viralpatel/spring/model/Referral.java" />
         <option value="$PROJECT_DIR$/src/main/resources/beans.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/navbar.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/footer.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/contact-us.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/net/viralpatel/spring/config/AppConfig.java" />
         <option value="$PROJECT_DIR$/src/main/.ebextensions/server-update.config" />
         <option value="$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/config/AppConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/referral.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/header.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/kucoin.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/cmr.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/binance.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/navbar.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/header.jsp" />
       </list>
     </option>
   </component>
@@ -237,7 +206,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="117" />
+    <option name="x" value="-10" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="767" />
@@ -322,6 +291,35 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cryptoreferral" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cryptoreferral" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cryptoreferral" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cryptoreferral" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cryptoreferral" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cryptoreferral" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="market-signup" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -339,6 +337,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup" />
       <recent name="$PROJECT_DIR$/src/main/webapp/resources/img" />
       <recent name="$PROJECT_DIR$/src/main/webapp/resources/css" />
       <recent name="$PROJECT_DIR$/src/main/webapp/resources" />
@@ -500,13 +499,13 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="117" y="23" width="1400" height="767" extended-state="0" />
+    <frame x="-10" y="23" width="1400" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -642,9 +641,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -681,22 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/navbar.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="45" column="56" lean-forward="false" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/contact-us.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
@@ -721,34 +702,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/config/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/referral.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="75" column="42" lean-forward="false" selection-start-line="75" selection-start-column="42" selection-end-line="75" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/controller/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -763,18 +720,98 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/kucoin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cryptomarketreferral/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/referral.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="71" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/coinbase.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/hitbtc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/bitmex.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/cmr.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="7" column="70" lean-forward="true" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+        <state relative-caret-position="458">
+          <caret line="51" column="46" lean-forward="false" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/market-signup/binance.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/navbar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="52" column="36" lean-forward="true" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+        <state relative-caret-position="445">
+          <caret line="68" column="34" lean-forward="false" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/includes/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="47" column="67" lean-forward="true" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
           <folding />
         </state>
       </provider>

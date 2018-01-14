@@ -42,20 +42,7 @@ pageEncoding="UTF-8" %>
 
 
 <!-- Required JavaScript Libraries -->
-<script src='/resources/lib/jquery/jquery.min.js'></script>
-<script src='/resources/lib/jquery/jquery-migrate.min.js'></script>
-<script src='/resources/lib/superfish/hoverIntent.js'></script>
-<script src='/resources/lib/superfish/superfish.min.js'></script>
-<script src='/resources/lib/tether/js/tether.min.js'></script>
-<script src='/resources/lib/stellar/stellar.min.js'></script>
-<script src='/resources/lib/bootstrap/js/bootstrap.bundle.min.js'></script>
-<script src='/resources/lib/counterup/counterup.min.js'></script>
-<script src='/resources/lib/waypoints/waypoints.min.js'></script>
-<script src='/resources/lib/easing/easing.js'></script>
-<script src='/resources/lib/stickyjs/sticky.js'></script>
-<script src='/resources/lib/parallax/parallax.js'></script>
-<script src='/resources/lib/lockfixed/lockfixed.min.js'></script>
-<script src='/resources/js/custom.js'></script>
+
 
 </body>
 </html>

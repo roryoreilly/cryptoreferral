@@ -37,7 +37,7 @@ pageEncoding="UTF-8" %>
 	<section class="about" id="about">
 		<div class="container text-center">
 			<h2>
-				About Bell Theme
+				About CMR
 			</h2>
 
 			<p>
@@ -45,28 +45,34 @@ pageEncoding="UTF-8" %>
 				temporibus an duo.
 			</p>
 
-			<table class="table referral-table">
-				<thead>
-					<tr>
-						<th colspan="2">Exchange</th>
-						<th>Bonus</th>
-						<th>Link</th>
-					</tr>
-				</thead>
-				<tbody>
-					<c:forEach items="${referrals}" var="r">
-					<tr>
-						<td class="logo"><img href="/resources/img/referral-logo/${r.name}.png" /></td>
-						<td><c:out value="${r.name}" /></td>
-						<td><c:out value="${r.bonus}" /></td>
-						<td><a href="/${r.id}" >Read More</a></td>
-					</tr>
-				</c:forEach>
-			</tbody>
-		</table>
-	</div>
-</div>
-</section>
+            <div id="accordion" role="tablist" aria-multiselectable="true">
+                <c:forEach items="${referrals}" var="r">
+                    <div class="card">
+                        <div class="card-header" role="tab">
+                            <h5 class="mb-0">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#${r.id}" aria-expanded="true" aria-controls="${r.id}">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <c:out value="${r.name}" />
+                                        </div>
+                                        <div class="col-md-6">
+                                            <c:out value="${r.bonus}" />
+                                        </div>
+                                    </div>
+                                </a>
+                            </h5>
+                        </div>
+
+                        <div id="${r.id}" class="collapse" role="tabpanel" aria-labelledby="heading${r.id}">
+                            <div class="card-block">
+                                <jsp:include page="market-signup/${r.id}.jsp" />
+                            </div>
+                        </div>
+                    </div>
+                </c:forEach>
+            </div>
+        </div>
+    </section>
 <!-- /About -->
 
 <jsp:include page="includes/footer.jsp" />

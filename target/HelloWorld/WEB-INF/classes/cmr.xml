@@ -7,19 +7,46 @@ http://www.springframework.org/schema/beans/spring-beans.xsd">
     <bean id="binance" class="com.cryptomarketreferral.model.Referral">
         <constructor-arg type = "java.lang.String" value = "binance"/>
         <constructor-arg type = "java.lang.String" value = "Binance"/>
-        <constructor-arg type = "java.lang.String" value = "http://www.binance.com"/>
+        <constructor-arg type = "java.lang.String" value = "http://www.binance.com/?ref=10803776"/>
         <constructor-arg type = "java.lang.String" value = "101010"/>
         <constructor-arg type = "java.lang.String" value = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus augue justo, aliquam quis nulla in, porta tincidunt sem. Aenean eleifend lectus ligula, at laoreet lorem dictum et. Nulla iaculis ipsum lacinia, egestas massa sit amet, mattis turpis. Sed ligula lacus, rutrum at dictum nec, sollicitudin eu purus. Integer sed volutpat odio, non sollicitudin eros.."/>
-        <constructor-arg type = "java.lang.String" value = "$10 in ETH"/>
+        <constructor-arg type = "java.lang.String" value = "15% Trade fees back"/>
     </bean>
 
     <bean id="kucoin" class="com.cryptomarketreferral.model.Referral">
         <constructor-arg type = "java.lang.String" value = "kucoin"/>
         <constructor-arg type = "java.lang.String" value = "Kucoin"/>
-        <constructor-arg type = "java.lang.String" value = "http://www.kucoin.com"/>
+        <constructor-arg type = "java.lang.String" value = "https://www.kucoin.com/#/?r=7ryJse"/>
         <constructor-arg type = "java.lang.String" value = "101010"/>
         <constructor-arg type = "java.lang.String" value = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus augue justo, aliquam quis nulla in, porta tincidunt sem. Aenean eleifend lectus ligula, at laoreet lorem dictum et. Nulla iaculis ipsum lacinia, egestas massa sit amet, mattis turpis. Sed ligula lacus, rutrum at dictum nec, sollicitudin eu purus. Integer sed volutpat odio, non sollicitudin eros.."/>
-        <constructor-arg type = "java.lang.String" value = "$10 in ETH"/>
+        <constructor-arg type = "java.lang.String" value = "15% Trade fees back"/>
+    </bean>
+
+    <bean id="hitbtc" class="com.cryptomarketreferral.model.Referral">
+        <constructor-arg type = "java.lang.String" value = "hitbtc"/>
+        <constructor-arg type = "java.lang.String" value = "HitBTC"/>
+        <constructor-arg type = "java.lang.String" value = "https://hitbtc.com/?ref_id=5a5a10549dd9e"/>
+        <constructor-arg type = "java.lang.String" value = "101010"/>
+        <constructor-arg type = "java.lang.String" value = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus augue justo, aliquam quis nulla in, porta tincidunt sem. Aenean eleifend lectus ligula, at laoreet lorem dictum et. Nulla iaculis ipsum lacinia, egestas massa sit amet, mattis turpis. Sed ligula lacus, rutrum at dictum nec, sollicitudin eu purus. Integer sed volutpat odio, non sollicitudin eros.."/>
+        <constructor-arg type = "java.lang.String" value = "35% Trade fees back"/>
+    </bean>
+
+    <bean id="coinbase" class="com.cryptomarketreferral.model.Referral">
+        <constructor-arg type = "java.lang.String" value = "coinbase"/>
+        <constructor-arg type = "java.lang.String" value = "Coinbase"/>
+        <constructor-arg type = "java.lang.String" value = "https://www.coinbase.com/join/593e60425eb42bbeeffc8112"/>
+        <constructor-arg type = "java.lang.String" value = "101010"/>
+        <constructor-arg type = "java.lang.String" value = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus augue justo, aliquam quis nulla in, porta tincidunt sem. Aenean eleifend lectus ligula, at laoreet lorem dictum et. Nulla iaculis ipsum lacinia, egestas massa sit amet, mattis turpis. Sed ligula lacus, rutrum at dictum nec, sollicitudin eu purus. Integer sed volutpat odio, non sollicitudin eros.."/>
+        <constructor-arg type = "java.lang.String" value = "$10 Sign up Bonus"/>
+    </bean>
+
+    <bean id="bitmex" class="com.cryptomarketreferral.model.Referral">
+        <constructor-arg type = "java.lang.String" value = "bitmex"/>
+        <constructor-arg type = "java.lang.String" value = "BitMex"/>
+        <constructor-arg type = "java.lang.String" value = "https://www.bitmex.com/register/nYRy1L"/>
+        <constructor-arg type = "java.lang.String" value = "101010"/>
+        <constructor-arg type = "java.lang.String" value = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus augue justo, aliquam quis nulla in, porta tincidunt sem. Aenean eleifend lectus ligula, at laoreet lorem dictum et. Nulla iaculis ipsum lacinia, egestas massa sit amet, mattis turpis. Sed ligula lacus, rutrum at dictum nec, sollicitudin eu purus. Integer sed volutpat odio, non sollicitudin eros.."/>
+        <constructor-arg type = "java.lang.String" value = "%10 off fees"/>
     </bean>
 
     <bean id="referrals" class="java.util.ArrayList">
@@ -27,6 +54,9 @@ http://www.springframework.org/schema/beans/spring-beans.xsd">
             <list>
                 <ref bean="binance" />
                 <ref bean="kucoin" />
+                <ref bean="hitbtc" />
+                <ref bean="coinbase" />
+                <ref bean="bitmex" />
             </list>
         </constructor-arg>
     </bean>

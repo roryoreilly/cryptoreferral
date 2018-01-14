@@ -41,6 +41,23 @@ pageEncoding="UTF-8" %>
     <link rel="icon" type="image/png" sizes="96x96" href="/resources/img/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/resources/img/favicon/favicon-16x16.png">
 
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <!-- <script src='/resources/lib/jquery/jquery.min.js'></script> -->
+    <!-- <script src='/resources/lib/jquery/jquery-migrate.min.js'></script> -->
+    <script src='/resources/lib/superfish/hoverIntent.js'></script>
+    <script src='/resources/lib/superfish/superfish.min.js'></script>
+    <script src='/resources/lib/tether/js/tether.min.js'></script>
+    <script src='/resources/lib/stellar/stellar.min.js'></script>
+    <!-- <script src='/resources/lib/bootstrap/js/bootstrap.bundle.min.js'></script> -->
+    <script src='/resources/lib/counterup/counterup.min.js'></script>
+    <script src='/resources/lib/waypoints/waypoints.min.js'></script>
+    <script src='/resources/lib/easing/easing.js'></script>
+    <script src='/resources/lib/stickyjs/sticky.js'></script>
+    <script src='/resources/lib/parallax/parallax.js'></script>
+    <script src='/resources/lib/lockfixed/lockfixed.min.js'></script>
+    <script src='/resources/js/custom.js'></script>
+
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Roboto:400,900" rel="stylesheet">
 
